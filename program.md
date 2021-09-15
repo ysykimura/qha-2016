@@ -1,11 +1,11 @@
 # Program
 
 ## 8/26
-9:00~10:30 : Kodera, Representations of semisimple Lie algebras in the BGG category $\mathscr{O}$ I  
-11:00~12:30 : Kodera, Representations of semisimple Lie algebras in the BGG category $\mathscr{O}$ II  
-14:00~15:30 : Kase, Quasi-hereditary algebras and highest weight categories I  
-16:00~17:00 : Kodera, Representations of semisimple Lie algebras in the BGG category $\mathscr{O}$ III  
-17:30~18:30 : Kase, Quasi-hereditary algebras and highest weight categories II
+- 9:00~10:30 : Kodera, Representations of semisimple Lie algebras in the BGG category $\mathscr{O}$ I  
+- 11:00~12:30 : Kodera, Representations of semisimple Lie algebras in the BGG category $\mathscr{O}$ II  
+- 14:00~15:30 : Kase, Quasi-hereditary algebras and highest weight categories I  
+- 16:00~17:00 : Kodera, Representations of semisimple Lie algebras in the BGG category $\mathscr{O}$ III  
+- 17:30~18:30 : Kase, Quasi-hereditary algebras and highest weight categories II
 
 ## 8/27
 10:30~12:00 : Kanda, Auslander-Buchweitz approximations and cotilting modules I  
