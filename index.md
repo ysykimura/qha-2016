@@ -6,9 +6,9 @@
 ## 会場
 大阪府立大学 A5棟 124号室
 
-## [プログラム](program)
-## [アブストラクト](abstract)
-## [レジュメ](resume/index)
+## [プログラム](https://github.com/ysykimura/qha-2016/blob/main/program.md)
+## [アブストラクト](https://github.com/ysykimura/qha-2016/blob/main/abstract.md)
+## [レジュメ](https://github.com/ysykimura/qha-2016/tree/main/resume)
 ## 講演予定者（五十音順、敬称略）: 講演タイトル
 - 有木進(大阪大学) : Rouquier's theory of quasi-hereditary covers  
 - 加瀬遼一(奈良女子大学) : Quasi-hereditary algebras and highest weight categories  
