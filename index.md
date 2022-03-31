@@ -1,3 +1,6 @@
+<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
 # Summer School on Quasi-hereditary Algebras
 
 ## 日程
@@ -6,9 +9,9 @@
 ## 会場
 大阪府立大学 A5棟 124号室
 
-## [プログラム](https://github.com/ysykimura/qha-2016/blob/main/program.md)
-## [アブストラクト](https://github.com/ysykimura/qha-2016/blob/main/abstract.md)
-## [レジュメ](https://github.com/ysykimura/qha-2016/tree/main/resume)
+## [プログラム](program.md)
+## [アブストラクト](abstract.md)
+## レジュメ
 ## 講演予定者（五十音順、敬称略）: 講演タイトル
 - 有木進(大阪大学) : Rouquier's theory of quasi-hereditary covers  
 - 加瀬遼一(奈良女子大学) : Quasi-hereditary algebras and highest weight categories  
