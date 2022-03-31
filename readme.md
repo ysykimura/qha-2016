@@ -1,0 +1,1 @@
+This is a back up of the summer school on quasi-hereditary algebra which has held in 2016
